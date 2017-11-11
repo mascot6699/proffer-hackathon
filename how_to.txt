@@ -1,2 +1,7 @@
-1) make a seperate folder
-2) truffle init
+1) Make a seperate folder
+2) Type `truffle init` to create initial structure
+3) Change truffle.js config to listen to network_id which will run in next command
+4) Use the `testrpc` command on another terminal to start a private ETH network.
+5) Add your contracts in filename.sol
+6) Add respective migration
+7) truffle deploy
